@@ -13,6 +13,11 @@
 - https://www.udemy.com/course/build-eu-gdpr-data-protection-compliance-from-scratch-cipt/
 - https://iapp.org/certify/
 
+## Talks on Data Ethics
+
+-  https://www.youtube.com/watch?v=qVo9oApl4Rs
+-  https://www.youtube.com/watch?v=lLH70qkROWQ
+
 # Remember to Research
 
 - Data --> Information --> Knowledge
