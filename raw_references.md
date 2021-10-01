@@ -16,7 +16,9 @@
 ## Talks on Data Ethics
 
 -  https://www.youtube.com/watch?v=qVo9oApl4Rs
+   -  Talk given by Brent Mittelstadt (need to read his works)
 -  https://www.youtube.com/watch?v=lLH70qkROWQ
+   -  Talk given by Luciano Floridi (need to read his works)
 
 # Remember to Research
 
