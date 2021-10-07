@@ -12,6 +12,7 @@
 - https://www.youtube.com/playlist?list=PLuD_SqLtxSdUb4aWamQp3mHZAU10GjcdS
 - https://www.udemy.com/course/build-eu-gdpr-data-protection-compliance-from-scratch-cipt/
 - https://iapp.org/certify/
+  - Chapple, Mike;Shelley, Joe;. “IAPP CIPP / US Certified Information Privacy Professional Study Guide”. Apple Books.
 
 ## Talks on Data Ethics
 
